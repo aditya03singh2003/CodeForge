@@ -4,6 +4,19 @@ An advanced online code editor built with modern web technologies, designed for 
 
 ---
 
+## 🔥 Preview
+
+### 🧠 Code Editor
+![Code Editor](public/screenshots/code-editor.png)
+
+### 📚 Snippets Page
+![Snippets Page](public/screenshots/snippets-page.png)
+
+### 💎 Pro Subscription Page
+![Pro Subscription](public/screenshots/pro-subscription.png)
+
+---
+
 ## Highlights
 
 - **🚀 Tech Stack:** Built using **Next.js 15**, **Convex**, **Clerk**, and **TypeScript** for a robust and scalable platform.
